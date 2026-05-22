@@ -1,1 +1,0 @@
-error: [Errno 17] File exists: '/home/srjn/ros2_ws/build/diff_drive_description/urdf/diff_drive.xacro' -> '/home/srjn/ros2_ws/install/diff_drive_description/share/diff_drive_description/diff_drive.xacro'
