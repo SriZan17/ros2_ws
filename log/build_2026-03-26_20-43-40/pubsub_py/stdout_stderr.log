@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating pubsub_py.egg-info
+writing pubsub_py.egg-info/PKG-INFO
+writing dependency_links to pubsub_py.egg-info/dependency_links.txt
+writing entry points to pubsub_py.egg-info/entry_points.txt
+writing requirements to pubsub_py.egg-info/requires.txt
+writing top-level names to pubsub_py.egg-info/top_level.txt
+writing manifest file 'pubsub_py.egg-info/SOURCES.txt'
+reading manifest file 'pubsub_py.egg-info/SOURCES.txt'
+writing manifest file 'pubsub_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub-py.egg-link (link to .)
+Installing sine_wave_pub script to /home/srjn/ros2_ws/install/pubsub_py/lib/pubsub_py
+Installing sine_wave_sub script to /home/srjn/ros2_ws/install/pubsub_py/lib/pubsub_py
+
+Installed /home/srjn/ros2_ws/build/pubsub_py
+running symlink_data
+creating /home/srjn/ros2_ws/install/pubsub_py/share/ament_index
+creating /home/srjn/ros2_ws/install/pubsub_py/share/ament_index/resource_index
+creating /home/srjn/ros2_ws/install/pubsub_py/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/pubsub_py/resource/pubsub_py -> /home/srjn/ros2_ws/install/pubsub_py/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/pubsub_py/package.xml -> /home/srjn/ros2_ws/install/pubsub_py/share/pubsub_py

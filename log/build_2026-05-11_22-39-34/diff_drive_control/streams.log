@@ -1,0 +1,34 @@
+[3.021s] Invoking command in '/home/srjn/ros2_ws/src/diff_drive_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/diff_drive_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/diff_drive_control build --build-base /home/srjn/ros2_ws/build/diff_drive_control/build install --record /home/srjn/ros2_ws/build/diff_drive_control/install.log --single-version-externally-managed install_data
+[3.430s] running egg_info
+[3.430s] creating ../../build/diff_drive_control/diff_drive_control.egg-info
+[3.461s] writing ../../build/diff_drive_control/diff_drive_control.egg-info/PKG-INFO
+[3.461s] writing dependency_links to ../../build/diff_drive_control/diff_drive_control.egg-info/dependency_links.txt
+[3.461s] writing requirements to ../../build/diff_drive_control/diff_drive_control.egg-info/requires.txt
+[3.461s] writing top-level names to ../../build/diff_drive_control/diff_drive_control.egg-info/top_level.txt
+[3.462s] writing manifest file '../../build/diff_drive_control/diff_drive_control.egg-info/SOURCES.txt'
+[3.515s] reading manifest file '../../build/diff_drive_control/diff_drive_control.egg-info/SOURCES.txt'
+[3.516s] writing manifest file '../../build/diff_drive_control/diff_drive_control.egg-info/SOURCES.txt'
+[3.516s] running build
+[3.516s] running build_py
+[3.516s] creating /home/srjn/ros2_ws/build/diff_drive_control/build
+[3.516s] creating /home/srjn/ros2_ws/build/diff_drive_control/build/lib
+[3.517s] creating /home/srjn/ros2_ws/build/diff_drive_control/build/lib/diff_drive_control
+[3.517s] copying diff_drive_control/apf_controller.py -> /home/srjn/ros2_ws/build/diff_drive_control/build/lib/diff_drive_control
+[3.517s] copying diff_drive_control/__init__.py -> /home/srjn/ros2_ws/build/diff_drive_control/build/lib/diff_drive_control
+[3.517s] running install
+[3.529s] running install_lib
+[3.571s] creating /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control
+[3.572s] copying /home/srjn/ros2_ws/build/diff_drive_control/build/lib/diff_drive_control/apf_controller.py -> /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control
+[3.572s] copying /home/srjn/ros2_ws/build/diff_drive_control/build/lib/diff_drive_control/__init__.py -> /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control
+[3.573s] byte-compiling /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control/apf_controller.py to apf_controller.cpython-312.pyc
+[3.576s] byte-compiling /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control/__init__.py to __init__.cpython-312.pyc
+[3.576s] running install_data
+[3.576s] creating /home/srjn/ros2_ws/install/diff_drive_control/share/ament_index
+[3.576s] creating /home/srjn/ros2_ws/install/diff_drive_control/share/ament_index/resource_index
+[3.577s] creating /home/srjn/ros2_ws/install/diff_drive_control/share/ament_index/resource_index/packages
+[3.577s] copying resource/diff_drive_control -> /home/srjn/ros2_ws/install/diff_drive_control/share/ament_index/resource_index/packages
+[3.577s] copying package.xml -> /home/srjn/ros2_ws/install/diff_drive_control/share/diff_drive_control
+[3.577s] running install_egg_info
+[3.620s] Copying ../../build/diff_drive_control/diff_drive_control.egg-info to /home/srjn/ros2_ws/install/diff_drive_control/lib/python3.12/site-packages/diff_drive_control-0.0.0-py3.12.egg-info
+[3.622s] running install_scripts
+[3.873s] writing list of installed files to '/home/srjn/ros2_ws/build/diff_drive_control/install.log'

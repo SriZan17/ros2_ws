@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+build/symlink/symlink.egg-info/PKG-INFO
+build/symlink/symlink.egg-info/SOURCES.txt
+build/symlink/symlink.egg-info/dependency_links.txt
+build/symlink/symlink.egg-info/entry_points.txt
+build/symlink/symlink.egg-info/requires.txt
+build/symlink/symlink.egg-info/top_level.txt
+build/symlink/symlink.egg-info/zip-safe
+resource/symlink
+symlink/__init__.py
+symlink/hello_world_node.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

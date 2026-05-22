@@ -1,0 +1,16 @@
+[2.005s] Invoking command in '/home/srjn/ros2_ws/build/minimal_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/minimal_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/minimal_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/minimal_pkg/build --no-deps symlink_data
+[2.370s] running develop
+[2.605s] running egg_info
+[2.629s] writing minimal_pkg.egg-info/PKG-INFO
+[2.629s] writing dependency_links to minimal_pkg.egg-info/dependency_links.txt
+[2.629s] writing entry points to minimal_pkg.egg-info/entry_points.txt
+[2.629s] writing requirements to minimal_pkg.egg-info/requires.txt
+[2.630s] writing top-level names to minimal_pkg.egg-info/top_level.txt
+[2.674s] reading manifest file 'minimal_pkg.egg-info/SOURCES.txt'
+[2.674s] writing manifest file 'minimal_pkg.egg-info/SOURCES.txt'
+[2.697s] running build_ext
+[2.697s] Creating /home/srjn/ros2_ws/install/minimal_pkg/lib/python3.12/site-packages/minimal-pkg.egg-link (link to .)
+[2.699s] Installing minimal_node script to /home/srjn/ros2_ws/install/minimal_pkg/lib/minimal_pkg
+[2.699s] 
+[2.700s] Installed /home/srjn/ros2_ws/build/minimal_pkg
+[2.700s] running symlink_data

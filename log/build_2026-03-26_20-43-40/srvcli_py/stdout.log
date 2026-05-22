@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating srvcli_py.egg-info
+writing srvcli_py.egg-info/PKG-INFO
+writing dependency_links to srvcli_py.egg-info/dependency_links.txt
+writing requirements to srvcli_py.egg-info/requires.txt
+writing top-level names to srvcli_py.egg-info/top_level.txt
+writing manifest file 'srvcli_py.egg-info/SOURCES.txt'
+reading manifest file 'srvcli_py.egg-info/SOURCES.txt'
+writing manifest file 'srvcli_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/srjn/ros2_ws/install/srvcli_py/lib/python3.12/site-packages/srvcli-py.egg-link (link to .)
+
+Installed /home/srjn/ros2_ws/build/srvcli_py
+running symlink_data
+creating /home/srjn/ros2_ws/install/srvcli_py/share/ament_index
+creating /home/srjn/ros2_ws/install/srvcli_py/share/ament_index/resource_index
+creating /home/srjn/ros2_ws/install/srvcli_py/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/srvcli_py/resource/srvcli_py -> /home/srjn/ros2_ws/install/srvcli_py/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/srvcli_py/package.xml -> /home/srjn/ros2_ws/install/srvcli_py/share/srvcli_py

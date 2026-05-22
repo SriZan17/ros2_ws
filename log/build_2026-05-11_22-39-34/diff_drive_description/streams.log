@@ -1,0 +1,18 @@
+[2.997s] Invoking command in '/home/srjn/ros2_ws/src/diff_drive_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/diff_drive_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/diff_drive_description build --build-base /home/srjn/ros2_ws/build/diff_drive_description/build install --record /home/srjn/ros2_ws/build/diff_drive_description/install.log --single-version-externally-managed install_data
+[3.440s] running egg_info
+[3.466s] writing ../../build/diff_drive_description/diff_drive_description.egg-info/PKG-INFO
+[3.466s] writing dependency_links to ../../build/diff_drive_description/diff_drive_description.egg-info/dependency_links.txt
+[3.467s] writing requirements to ../../build/diff_drive_description/diff_drive_description.egg-info/requires.txt
+[3.467s] writing top-level names to ../../build/diff_drive_description/diff_drive_description.egg-info/top_level.txt
+[3.527s] reading manifest file '../../build/diff_drive_description/diff_drive_description.egg-info/SOURCES.txt'
+[3.529s] writing manifest file '../../build/diff_drive_description/diff_drive_description.egg-info/SOURCES.txt'
+[3.530s] running build
+[3.530s] running build_py
+[3.530s] running install
+[3.542s] running install_lib
+[3.576s] running install_data
+[3.577s] running install_egg_info
+[3.624s] removing '/home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages/diff_drive_description-0.0.0-py3.12.egg-info' (and everything under it)
+[3.624s] Copying ../../build/diff_drive_description/diff_drive_description.egg-info to /home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages/diff_drive_description-0.0.0-py3.12.egg-info
+[3.625s] running install_scripts
+[3.861s] writing list of installed files to '/home/srjn/ros2_ws/build/diff_drive_description/install.log'

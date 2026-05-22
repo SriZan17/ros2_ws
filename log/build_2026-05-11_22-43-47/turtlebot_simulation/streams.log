@@ -1,0 +1,51 @@
+[0.015s] Invoking command in '/home/srjn/ros2_ws/build/turtlebot_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/srjn/ros2_ws/src/turtlebot_simulation -DCMAKE_INSTALL_PREFIX=/home/srjn/ros2_ws/install/turtlebot_simulation
+[0.030s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.235s] -- Found ros_gz_bridge: 1.0.22 (/opt/ros/jazzy/share/ros_gz_bridge/cmake)
+[0.263s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.271s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.281s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.292s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.351s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.352s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.416s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.505s] -- Looking for gz-msgs10 -- found version 10.3.2
+[0.511s] -- Searching for dependencies of gz-msgs10
+[0.539s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.539s] -- Searching for dependencies of gz-utils2
+[0.539s] -- Looking for gz-math7 -- found version 7.5.2
+[0.540s] -- Searching for dependencies of gz-math7
+[0.540s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.545s] -- Checking for module 'tinyxml2'
+[0.559s] --   Found tinyxml2, version 10.0.0
+[0.592s] -- Looking for gz-transport13 -- found version 13.5.0
+[0.592s] -- Searching for dependencies of gz-transport13
+[0.635s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[0.640s] -- Checking for module 'libzmq >= 4'
+[0.655s] --   Found libzmq, version 4.3.5
+[0.698s] -- Checking for module 'uuid'
+[0.715s] --   Found uuid, version 2.39.3
+[0.749s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.749s] -- Searching for dependencies of gz-utils2
+[0.749s] -- Searching for <gz-utils2> component [cli]
+[0.750s] -- Looking for gz-utils2-cli -- found version 2.2.1
+[0.750s] -- Searching for dependencies of gz-utils2-cli
+[0.750s] -- Looking for gz-msgs10 -- found version 10.3.2
+[1.012s] [31mCMake Error at CMakeLists.txt:11 (find_package):
+[1.012s]   By not providing "Findros_gz_sim.cmake" in CMAKE_MODULE_PATH this
+[1.012s]   project has asked CMake to find a package configuration file provided by
+[1.012s]   "ros_gz_sim", but CMake did not find one.
+[1.012s] 
+[1.012s]   Could not find a package configuration file provided by "ros_gz_sim"
+[1.012s]   with any of the following names:
+[1.012s] 
+[1.012s]     ros_gz_simConfig.cmake
+[1.013s]     ros_gz_sim-config.cmake
+[1.013s] 
+[1.013s]   Add the installation prefix of "ros_gz_sim" to CMAKE_PREFIX_PATH or set
+[1.013s]   "ros_gz_sim_DIR" to a directory containing one of the above files.  If
+[1.013s]   "ros_gz_sim" provides a separate development package or SDK, be sure it
+[1.013s]   has been installed.
+[1.013s] 
+[1.013s] [0m
+[1.013s] -- Configuring incomplete, errors occurred!
+[1.026s] Invoked command in '/home/srjn/ros2_ws/build/turtlebot_simulation' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/srjn/ros2_ws/src/turtlebot_simulation -DCMAKE_INSTALL_PREFIX=/home/srjn/ros2_ws/install/turtlebot_simulation

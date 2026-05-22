@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating turtle_ctrl_launch.egg-info
+writing turtle_ctrl_launch.egg-info/PKG-INFO
+writing dependency_links to turtle_ctrl_launch.egg-info/dependency_links.txt
+writing requirements to turtle_ctrl_launch.egg-info/requires.txt
+writing top-level names to turtle_ctrl_launch.egg-info/top_level.txt
+writing manifest file 'turtle_ctrl_launch.egg-info/SOURCES.txt'
+reading manifest file 'turtle_ctrl_launch.egg-info/SOURCES.txt'
+writing manifest file 'turtle_ctrl_launch.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/srjn/ros2_ws/install/turtle_ctrl_launch/lib/python3.12/site-packages/turtle-ctrl-launch.egg-link (link to .)
+
+Installed /home/srjn/ros2_ws/build/turtle_ctrl_launch
+running symlink_data
+creating /home/srjn/ros2_ws/install/turtle_ctrl_launch/share/ament_index
+creating /home/srjn/ros2_ws/install/turtle_ctrl_launch/share/ament_index/resource_index
+creating /home/srjn/ros2_ws/install/turtle_ctrl_launch/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/turtle_ctrl_launch/resource/turtle_ctrl_launch -> /home/srjn/ros2_ws/install/turtle_ctrl_launch/share/ament_index/resource_index/packages
+symbolically linking /home/srjn/ros2_ws/build/turtle_ctrl_launch/package.xml -> /home/srjn/ros2_ws/install/turtle_ctrl_launch/share/turtle_ctrl_launch

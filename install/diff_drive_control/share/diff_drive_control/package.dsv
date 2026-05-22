@@ -1,0 +1,6 @@
+source;share/diff_drive_control/hook/pythonpath.ps1
+source;share/diff_drive_control/hook/pythonpath.dsv
+source;share/diff_drive_control/hook/pythonpath.sh
+source;share/diff_drive_control/hook/ament_prefix_path.ps1
+source;share/diff_drive_control/hook/ament_prefix_path.dsv
+source;share/diff_drive_control/hook/ament_prefix_path.sh

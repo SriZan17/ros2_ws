@@ -1,0 +1,15 @@
+/home/srjn/ros2_ws/install/action_pkg/share/ament_index/resource_index/package_run_dependencies/action_pkg
+/home/srjn/ros2_ws/install/action_pkg/share/ament_index/resource_index/parent_prefix_path/action_pkg
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/environment/ament_prefix_path.sh
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/environment/ament_prefix_path.dsv
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/environment/path.sh
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/environment/path.dsv
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/local_setup.bash
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/local_setup.sh
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/local_setup.zsh
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/local_setup.dsv
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/package.dsv
+/home/srjn/ros2_ws/install/action_pkg/share/ament_index/resource_index/packages/action_pkg
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/cmake/action_pkgConfig.cmake
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/cmake/action_pkgConfig-version.cmake
+/home/srjn/ros2_ws/install/action_pkg/share/action_pkg/package.xml

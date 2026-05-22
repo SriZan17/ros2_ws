@@ -1,0 +1,14 @@
+file(REMOVE_RECURSE
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/_srv_pkg_s.ep.rosidl_typesupport_c.c"
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/_srv_pkg_s.ep.rosidl_typesupport_fastrtps_c.c"
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/_srv_pkg_s.ep.rosidl_typesupport_introspection_c.c"
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/srv/__init__.py"
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/srv/_joint_conversion.py"
+  "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/srv/_joint_conversion_s.c"
+  "CMakeFiles/srv_pkg__py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/srv_pkg__py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

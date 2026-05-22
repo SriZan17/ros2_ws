@@ -1,0 +1,1 @@
+/home/srjn/ros2_ws/build/srv_pkg/ament_cmake_core/srv_pkgConfig.cmake

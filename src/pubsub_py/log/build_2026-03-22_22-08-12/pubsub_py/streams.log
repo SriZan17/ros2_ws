@@ -1,0 +1,37 @@
+[0.623s] Invoking command in '/home/srjn/ros2_ws/src/pubsub_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pubsub_py build --build-base /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build install --record /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log --single-version-externally-managed install_data
+[0.823s] running egg_info
+[0.823s] creating build/pubsub_py/pubsub_py.egg-info
+[0.838s] writing build/pubsub_py/pubsub_py.egg-info/PKG-INFO
+[0.838s] writing dependency_links to build/pubsub_py/pubsub_py.egg-info/dependency_links.txt
+[0.838s] writing entry points to build/pubsub_py/pubsub_py.egg-info/entry_points.txt
+[0.838s] writing requirements to build/pubsub_py/pubsub_py.egg-info/requires.txt
+[0.838s] writing top-level names to build/pubsub_py/pubsub_py.egg-info/top_level.txt
+[0.838s] writing manifest file 'build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[0.870s] reading manifest file 'build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[0.870s] writing manifest file 'build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[0.870s] running build
+[0.870s] running build_py
+[0.870s] creating /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build
+[0.870s] creating /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib
+[0.870s] creating /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib/pubsub_py
+[0.870s] copying pubsub_py/sine_wave_pub.py -> /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib/pubsub_py
+[0.870s] copying pubsub_py/__init__.py -> /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib/pubsub_py
+[0.870s] running install
+[0.876s] running install_lib
+[0.891s] creating /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[0.891s] copying /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib/pubsub_py/sine_wave_pub.py -> /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[0.891s] copying /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build/lib/pubsub_py/__init__.py -> /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[0.891s] byte-compiling /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py/sine_wave_pub.py to sine_wave_pub.cpython-312.pyc
+[0.892s] byte-compiling /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py/__init__.py to __init__.cpython-312.pyc
+[0.892s] running install_data
+[0.892s] creating /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/share/ament_index
+[0.892s] creating /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/share/ament_index/resource_index
+[0.892s] creating /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/share/ament_index/resource_index/packages
+[0.892s] copying resource/pubsub_py -> /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/share/ament_index/resource_index/packages
+[0.892s] copying package.xml -> /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/share/pubsub_py
+[0.893s] running install_egg_info
+[0.910s] Copying build/pubsub_py/pubsub_py.egg-info to /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py-0.0.0-py3.12.egg-info
+[0.910s] running install_scripts
+[1.020s] Installing sine_wave_pub script to /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/pubsub_py
+[1.020s] writing list of installed files to '/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log'
+[1.039s] Invoked command in '/home/srjn/ros2_ws/src/pubsub_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pubsub_py build --build-base /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build install --record /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log --single-version-externally-managed install_data

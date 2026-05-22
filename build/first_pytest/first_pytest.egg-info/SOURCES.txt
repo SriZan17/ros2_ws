@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/first_pytest/first_pytest.egg-info/PKG-INFO
+../../build/first_pytest/first_pytest.egg-info/SOURCES.txt
+../../build/first_pytest/first_pytest.egg-info/dependency_links.txt
+../../build/first_pytest/first_pytest.egg-info/requires.txt
+../../build/first_pytest/first_pytest.egg-info/top_level.txt
+../../build/first_pytest/first_pytest.egg-info/zip-safe
+first_pytest/__init__.py
+resource/first_pytest
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

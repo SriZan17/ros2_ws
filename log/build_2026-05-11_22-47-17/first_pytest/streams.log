@@ -1,0 +1,30 @@
+[2.459s] Invoking command in '/home/srjn/ros2_ws/build/first_pytest': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/first_pytest/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/srjn/ros2_ws/build/first_pytest/build
+[2.849s] running develop
+[3.254s] Invoked command in '/home/srjn/ros2_ws/build/first_pytest' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/first_pytest/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/srjn/ros2_ws/build/first_pytest/build
+[3.254s] Invoking command in '/home/srjn/ros2_ws/src/first_pytest': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/first_pytest/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/first_pytest build --build-base /home/srjn/ros2_ws/build/first_pytest/build install --record /home/srjn/ros2_ws/build/first_pytest/install.log --single-version-externally-managed install_data --force
+[3.576s] running egg_info
+[3.604s] writing ../../build/first_pytest/first_pytest.egg-info/PKG-INFO
+[3.604s] writing dependency_links to ../../build/first_pytest/first_pytest.egg-info/dependency_links.txt
+[3.605s] writing requirements to ../../build/first_pytest/first_pytest.egg-info/requires.txt
+[3.605s] writing top-level names to ../../build/first_pytest/first_pytest.egg-info/top_level.txt
+[3.652s] reading manifest file '../../build/first_pytest/first_pytest.egg-info/SOURCES.txt'
+[3.652s] writing manifest file '../../build/first_pytest/first_pytest.egg-info/SOURCES.txt'
+[3.653s] running build
+[3.653s] running build_py
+[3.654s] creating /home/srjn/ros2_ws/build/first_pytest/build
+[3.654s] creating /home/srjn/ros2_ws/build/first_pytest/build/lib
+[3.654s] creating /home/srjn/ros2_ws/build/first_pytest/build/lib/first_pytest
+[3.654s] copying first_pytest/__init__.py -> /home/srjn/ros2_ws/build/first_pytest/build/lib/first_pytest
+[3.654s] running install
+[3.659s] running install_lib
+[3.682s] creating /home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages/first_pytest
+[3.682s] copying /home/srjn/ros2_ws/build/first_pytest/build/lib/first_pytest/__init__.py -> /home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages/first_pytest
+[3.683s] byte-compiling /home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages/first_pytest/__init__.py to __init__.cpython-312.pyc
+[3.683s] running install_data
+[3.683s] copying resource/first_pytest -> /home/srjn/ros2_ws/install/first_pytest/share/ament_index/resource_index/packages
+[3.683s] copying package.xml -> /home/srjn/ros2_ws/install/first_pytest/share/first_pytest
+[3.683s] running install_egg_info
+[3.713s] Copying ../../build/first_pytest/first_pytest.egg-info to /home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages/first_pytest-0.0.0-py3.12.egg-info
+[3.714s] running install_scripts
+[3.895s] writing list of installed files to '/home/srjn/ros2_ws/build/first_pytest/install.log'
+[3.972s] Invoked command in '/home/srjn/ros2_ws/src/first_pytest' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/first_pytest/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/first_pytest/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/first_pytest build --build-base /home/srjn/ros2_ws/build/first_pytest/build install --record /home/srjn/ros2_ws/build/first_pytest/install.log --single-version-externally-managed install_data --force

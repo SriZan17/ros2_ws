@@ -1,0 +1,16 @@
+[2.244s] Invoking command in '/home/srjn/ros2_ws/build/symlink': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/symlink/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/symlink/build --no-deps symlink_data
+[2.606s] running develop
+[2.840s] running egg_info
+[2.862s] writing symlink.egg-info/PKG-INFO
+[2.862s] writing dependency_links to symlink.egg-info/dependency_links.txt
+[2.862s] writing entry points to symlink.egg-info/entry_points.txt
+[2.863s] writing requirements to symlink.egg-info/requires.txt
+[2.863s] writing top-level names to symlink.egg-info/top_level.txt
+[2.914s] reading manifest file 'symlink.egg-info/SOURCES.txt'
+[2.915s] writing manifest file 'symlink.egg-info/SOURCES.txt'
+[2.937s] running build_ext
+[2.937s] Creating /home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages/symlink.egg-link (link to .)
+[2.938s] Installing hello_world_node script to /home/srjn/ros2_ws/install/symlink/lib/symlink
+[2.938s] 
+[2.938s] Installed /home/srjn/ros2_ws/build/symlink
+[2.939s] running symlink_data

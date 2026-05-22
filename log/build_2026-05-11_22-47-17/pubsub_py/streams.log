@@ -1,0 +1,39 @@
+[2.527s] Invoking command in '/home/srjn/ros2_ws/build/pubsub_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/srjn/ros2_ws/build/pubsub_py/build
+[2.935s] running develop
+[3.299s] Invoked command in '/home/srjn/ros2_ws/build/pubsub_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/srjn/ros2_ws/build/pubsub_py/build
+[3.301s] Invoking command in '/home/srjn/ros2_ws/src/pubsub_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub_py build --build-base /home/srjn/ros2_ws/build/pubsub_py/build install --record /home/srjn/ros2_ws/build/pubsub_py/install.log --single-version-externally-managed install_data --force
+[3.613s] running egg_info
+[3.635s] writing ../../build/pubsub_py/pubsub_py.egg-info/PKG-INFO
+[3.635s] writing dependency_links to ../../build/pubsub_py/pubsub_py.egg-info/dependency_links.txt
+[3.636s] writing entry points to ../../build/pubsub_py/pubsub_py.egg-info/entry_points.txt
+[3.636s] writing requirements to ../../build/pubsub_py/pubsub_py.egg-info/requires.txt
+[3.636s] writing top-level names to ../../build/pubsub_py/pubsub_py.egg-info/top_level.txt
+[3.688s] reading manifest file '../../build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[3.689s] writing manifest file '../../build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[3.689s] running build
+[3.689s] running build_py
+[3.689s] creating /home/srjn/ros2_ws/build/pubsub_py/build
+[3.690s] creating /home/srjn/ros2_ws/build/pubsub_py/build/lib
+[3.690s] creating /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py
+[3.690s] copying pubsub_py/sine_wave_pub.py -> /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py
+[3.690s] copying pubsub_py/__init__.py -> /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py
+[3.690s] copying pubsub_py/sine_wave_sub_and_plot.py -> /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py
+[3.690s] running install
+[3.697s] running install_lib
+[3.724s] creating /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[3.724s] copying /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py/sine_wave_pub.py -> /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[3.724s] copying /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py/__init__.py -> /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[3.724s] copying /home/srjn/ros2_ws/build/pubsub_py/build/lib/pubsub_py/sine_wave_sub_and_plot.py -> /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py
+[3.725s] byte-compiling /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py/sine_wave_pub.py to sine_wave_pub.cpython-312.pyc
+[3.725s] byte-compiling /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py/__init__.py to __init__.cpython-312.pyc
+[3.726s] byte-compiling /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py/sine_wave_sub_and_plot.py to sine_wave_sub_and_plot.cpython-312.pyc
+[3.726s] running install_data
+[3.727s] copying resource/pubsub_py -> /home/srjn/ros2_ws/install/pubsub_py/share/ament_index/resource_index/packages
+[3.727s] copying package.xml -> /home/srjn/ros2_ws/install/pubsub_py/share/pubsub_py
+[3.727s] running install_egg_info
+[3.753s] Copying ../../build/pubsub_py/pubsub_py.egg-info to /home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages/pubsub_py-0.0.0-py3.12.egg-info
+[3.754s] running install_scripts
+[3.968s] Installing sine_wave_pub script to /home/srjn/ros2_ws/install/pubsub_py/lib/pubsub_py
+[3.968s] Installing sine_wave_sub script to /home/srjn/ros2_ws/install/pubsub_py/lib/pubsub_py
+[3.968s] writing list of installed files to '/home/srjn/ros2_ws/build/pubsub_py/install.log'
+[4.005s] Invoked command in '/home/srjn/ros2_ws/src/pubsub_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub_py build --build-base /home/srjn/ros2_ws/build/pubsub_py/build install --record /home/srjn/ros2_ws/build/pubsub_py/install.log --single-version-externally-managed install_data --force

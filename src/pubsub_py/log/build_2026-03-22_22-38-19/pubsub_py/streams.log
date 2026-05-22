@@ -1,0 +1,22 @@
+[0.627s] Invoking command in '/home/srjn/ros2_ws/src/pubsub_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pubsub_py build --build-base /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build install --record /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log --single-version-externally-managed install_data
+[0.828s] running egg_info
+[0.843s] writing build/pubsub_py/pubsub_py.egg-info/PKG-INFO
+[0.843s] writing dependency_links to build/pubsub_py/pubsub_py.egg-info/dependency_links.txt
+[0.843s] writing entry points to build/pubsub_py/pubsub_py.egg-info/entry_points.txt
+[0.844s] writing requirements to build/pubsub_py/pubsub_py.egg-info/requires.txt
+[0.844s] writing top-level names to build/pubsub_py/pubsub_py.egg-info/top_level.txt
+[0.874s] reading manifest file 'build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[0.874s] writing manifest file 'build/pubsub_py/pubsub_py.egg-info/SOURCES.txt'
+[0.875s] running build
+[0.875s] running build_py
+[0.875s] running install
+[0.880s] running install_lib
+[0.895s] running install_data
+[0.896s] running install_egg_info
+[0.911s] removing '/home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py-0.0.0-py3.12.egg-info' (and everything under it)
+[0.912s] Copying build/pubsub_py/pubsub_py.egg-info to /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages/pubsub_py-0.0.0-py3.12.egg-info
+[0.913s] running install_scripts
+[1.017s] Installing sine_wave_pub script to /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/pubsub_py
+[1.017s] Installing sine_wave_sub script to /home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/pubsub_py
+[1.017s] writing list of installed files to '/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log'
+[1.041s] Invoked command in '/home/srjn/ros2_ws/src/pubsub_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/src/pubsub_py/install/pubsub_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pubsub_py build --build-base /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/build install --record /home/srjn/ros2_ws/src/pubsub_py/build/pubsub_py/install.log --single-version-externally-managed install_data

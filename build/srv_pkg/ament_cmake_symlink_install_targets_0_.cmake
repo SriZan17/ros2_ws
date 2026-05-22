@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/srjn/ros2_ws/build/srv_pkg/rosidl_generator_py/srv_pkg/srv_pkg_s__rosidl_typesupport_fastrtps_c.so" "TARGETS" "srv_pkg_s__rosidl_typesupport_fastrtps_c" "DESTINATION" "lib/python3.12/site-packages/srv_pkg")

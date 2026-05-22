@@ -1,0 +1,24 @@
+[1.510s] Invoking command in '/home/srjn/ros2_ws/build/symlink': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/symlink/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/symlink/build --no-deps symlink_data
+[1.822s] running develop
+[2.008s] running egg_info
+[2.008s] creating symlink.egg-info
+[2.027s] writing symlink.egg-info/PKG-INFO
+[2.027s] writing dependency_links to symlink.egg-info/dependency_links.txt
+[2.027s] writing entry points to symlink.egg-info/entry_points.txt
+[2.027s] writing requirements to symlink.egg-info/requires.txt
+[2.027s] writing top-level names to symlink.egg-info/top_level.txt
+[2.027s] writing manifest file 'symlink.egg-info/SOURCES.txt'
+[2.068s] reading manifest file 'symlink.egg-info/SOURCES.txt'
+[2.068s] writing manifest file 'symlink.egg-info/SOURCES.txt'
+[2.088s] running build_ext
+[2.089s] Creating /home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages/symlink.egg-link (link to .)
+[2.089s] Installing hello_world_node script to /home/srjn/ros2_ws/install/symlink/lib/symlink
+[2.089s] 
+[2.089s] Installed /home/srjn/ros2_ws/build/symlink
+[2.090s] running symlink_data
+[2.090s] creating /home/srjn/ros2_ws/install/symlink/share/ament_index
+[2.090s] creating /home/srjn/ros2_ws/install/symlink/share/ament_index/resource_index
+[2.090s] creating /home/srjn/ros2_ws/install/symlink/share/ament_index/resource_index/packages
+[2.090s] symbolically linking /home/srjn/ros2_ws/build/symlink/resource/symlink -> /home/srjn/ros2_ws/install/symlink/share/ament_index/resource_index/packages
+[2.091s] symbolically linking /home/srjn/ros2_ws/build/symlink/package.xml -> /home/srjn/ros2_ws/install/symlink/share/symlink
+[2.159s] Invoked command in '/home/srjn/ros2_ws/build/symlink' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/symlink/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/symlink/build --no-deps symlink_data

@@ -1,0 +1,21 @@
+[2.452s] Invoking command in '/home/srjn/ros2_ws/src/symlink': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/symlink/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/symlink build --build-base /home/srjn/ros2_ws/build/symlink/build install --record /home/srjn/ros2_ws/build/symlink/install.log --single-version-externally-managed install_data
+[2.812s] running egg_info
+[2.837s] writing ../../build/symlink/symlink.egg-info/PKG-INFO
+[2.838s] writing dependency_links to ../../build/symlink/symlink.egg-info/dependency_links.txt
+[2.838s] writing entry points to ../../build/symlink/symlink.egg-info/entry_points.txt
+[2.838s] writing requirements to ../../build/symlink/symlink.egg-info/requires.txt
+[2.838s] writing top-level names to ../../build/symlink/symlink.egg-info/top_level.txt
+[2.895s] reading manifest file '../../build/symlink/symlink.egg-info/SOURCES.txt'
+[2.896s] writing manifest file '../../build/symlink/symlink.egg-info/SOURCES.txt'
+[2.896s] running build
+[2.897s] running build_py
+[2.897s] running install
+[2.903s] running install_lib
+[2.930s] running install_data
+[2.930s] running install_egg_info
+[2.956s] removing '/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages/symlink-0.0.0-py3.12.egg-info' (and everything under it)
+[2.957s] Copying ../../build/symlink/symlink.egg-info to /home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages/symlink-0.0.0-py3.12.egg-info
+[2.958s] running install_scripts
+[3.148s] Installing hello_world_node script to /home/srjn/ros2_ws/install/symlink/lib/symlink
+[3.148s] writing list of installed files to '/home/srjn/ros2_ws/build/symlink/install.log'
+[3.218s] Invoked command in '/home/srjn/ros2_ws/src/symlink' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/symlink/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/symlink/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/symlink build --build-base /home/srjn/ros2_ws/build/symlink/build install --record /home/srjn/ros2_ws/build/symlink/install.log --single-version-externally-managed install_data

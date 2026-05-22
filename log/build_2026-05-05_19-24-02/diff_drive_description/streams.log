@@ -1,0 +1,16 @@
+[2.157s] Invoking command in '/home/srjn/ros2_ws/build/diff_drive_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/diff_drive_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/diff_drive_description/build --no-deps symlink_data
+[2.525s] running develop
+[2.774s] running egg_info
+[2.795s] writing diff_drive_description.egg-info/PKG-INFO
+[2.796s] writing dependency_links to diff_drive_description.egg-info/dependency_links.txt
+[2.796s] writing requirements to diff_drive_description.egg-info/requires.txt
+[2.796s] writing top-level names to diff_drive_description.egg-info/top_level.txt
+[2.847s] reading manifest file 'diff_drive_description.egg-info/SOURCES.txt'
+[2.848s] writing manifest file 'diff_drive_description.egg-info/SOURCES.txt'
+[2.873s] running build_ext
+[2.873s] Creating /home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages/diff-drive-description.egg-link (link to .)
+[2.874s] 
+[2.874s] Installed /home/srjn/ros2_ws/build/diff_drive_description
+[2.874s] running symlink_data
+[2.875s] error: can't copy '/home/srjn/ros2_ws/build/diff_drive_description/launch/diff_drive_gazebo.launch.py': doesn't exist or not a regular file
+[2.955s] Invoked command in '/home/srjn/ros2_ws/build/diff_drive_description' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/srjn/ros2_ws/build/diff_drive_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/srjn/ros2_ws/install/diff_drive_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/srjn/ros2_ws/build/diff_drive_description/build --no-deps symlink_data

@@ -1,0 +1,2 @@
+[console_scripts]
+hello_world_node = symlink.hello_world_node:main

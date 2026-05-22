@@ -1,0 +1,99 @@
+[0.010s] Invoking command in '/home/srjn/ros2_ws/build/turtlebot_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/srjn/ros2_ws/src/turtlebot_simulation -DCMAKE_INSTALL_PREFIX=/home/srjn/ros2_ws/install/turtlebot_simulation
+[0.027s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.217s] -- Found ros_gz_bridge: 1.0.22 (/opt/ros/jazzy/share/ros_gz_bridge/cmake)
+[0.246s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.254s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.263s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.275s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.332s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.333s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.390s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.479s] -- Looking for gz-msgs10 -- found version 10.3.2
+[0.484s] -- Searching for dependencies of gz-msgs10
+[0.507s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.507s] -- Searching for dependencies of gz-utils2
+[0.508s] -- Looking for gz-math7 -- found version 7.5.2
+[0.508s] -- Searching for dependencies of gz-math7
+[0.508s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.515s] -- Checking for module 'tinyxml2'
+[0.531s] --   Found tinyxml2, version 10.0.0
+[0.563s] -- Looking for gz-transport13 -- found version 13.5.0
+[0.563s] -- Searching for dependencies of gz-transport13
+[0.600s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[0.604s] -- Checking for module 'libzmq >= 4'
+[0.621s] --   Found libzmq, version 4.3.5
+[0.663s] -- Checking for module 'uuid'
+[0.677s] --   Found uuid, version 2.39.3
+[0.709s] -- Looking for gz-utils2 -- found version 2.2.1
+[0.709s] -- Searching for dependencies of gz-utils2
+[0.709s] -- Searching for <gz-utils2> component [cli]
+[0.709s] -- Looking for gz-utils2-cli -- found version 2.2.1
+[0.709s] -- Searching for dependencies of gz-utils2-cli
+[0.710s] -- Looking for gz-msgs10 -- found version 10.3.2
+[0.960s] -- Found ros_gz_sim: 1.0.22 (/opt/ros/jazzy/share/ros_gz_sim/cmake)
+[1.036s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.103s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.233s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.233s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.234s] -- Added test 'lint_cmake' to check CMake code style
+[1.236s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.239s] -- Added test 'xmllint' to check XML markup files
+[1.241s] -- Configuring done (1.2s)
+[1.248s] -- Generating done (0.0s)
+[1.250s] -- Build files have been written to: /home/srjn/ros2_ws/build/turtlebot_simulation
+[1.260s] Invoked command in '/home/srjn/ros2_ws/build/turtlebot_simulation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/srjn/ros2_ws/src/turtlebot_simulation -DCMAKE_INSTALL_PREFIX=/home/srjn/ros2_ws/install/turtlebot_simulation
+[1.261s] Invoking command in '/home/srjn/ros2_ws/build/turtlebot_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/srjn/ros2_ws/build/turtlebot_simulation -- -j16 -l16
+[1.304s] Invoked command in '/home/srjn/ros2_ws/build/turtlebot_simulation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/srjn/ros2_ws/build/turtlebot_simulation -- -j16 -l16
+[1.316s] Invoking command in '/home/srjn/ros2_ws/build/turtlebot_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/srjn/ros2_ws/build/turtlebot_simulation
+[1.325s] -- Install configuration: ""
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/launch
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/launch/start_simu.launch.py
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/launch/ign_bridge.launch.py
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/launch/nav.launch.py
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3
+[1.325s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/model.sdf
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/model.config
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes/waffle_pi_base.dae
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes/tire.dae
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes/waffle_base.dae
+[1.326s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes/r200.dae
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/waffle/meshes/lds.dae
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/model.sdf
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/model.config
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/waffle_pi_base.dae
+[1.327s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/tire.dae
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/waffle_base.dae
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/r200.dae
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/lds.dae
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/models/turtlebot3/burger/meshes/burger_base.dae
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/worlds
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/worlds/model.sdf
+[1.328s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/worlds/meshes
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/worlds/meshes/wall.dae
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/worlds/meshes/hexagon.dae
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/params
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/params/nav.yaml
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/maps
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/maps/turtlebot_world.yaml
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/maps/turtlebot_world.pgm
+[1.329s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/ament_index/resource_index/package_run_dependencies/turtlebot_simulation
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/ament_index/resource_index/parent_prefix_path/turtlebot_simulation
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/environment/ament_prefix_path.sh
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/environment/ament_prefix_path.dsv
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/environment/path.sh
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/environment/path.dsv
+[1.330s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/local_setup.bash
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/local_setup.sh
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/local_setup.zsh
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/local_setup.dsv
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/package.dsv
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/ament_index/resource_index/packages/turtlebot_simulation
+[1.331s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/cmake/turtlebot_simulationConfig.cmake
+[1.332s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/cmake/turtlebot_simulationConfig-version.cmake
+[1.332s] -- Installing: /home/srjn/ros2_ws/install/turtlebot_simulation/share/turtlebot_simulation/package.xml
+[1.333s] Invoked command in '/home/srjn/ros2_ws/build/turtlebot_simulation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srjn/ros2_ws/install/turtle_ctrl_launch:/home/srjn/ros2_ws/install/symlink:/home/srjn/ros2_ws/install/srvcli_py:/home/srjn/ros2_ws/install/pubsub_py:/home/srjn/ros2_ws/install/minimal_pkg:/home/srjn/ros2_ws/install/first_pytest:/home/srjn/ros2_ws/install/diff_drive_description:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/srjn/ros2_ws/build/turtlebot_simulation
